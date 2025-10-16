@@ -23,9 +23,10 @@ I love learning new technologies and building small useful projects for practice
 ---
 
 ## 📫 How to reach me
-[![LinkedIn](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/%C4%91o%C3%A0n-anh-tu%E1%BA%A5n-59604038b/) 
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/tuanda2309)
-[![YouTube](https://github.com/vietnh1009/introduction/blob/main/Youtube.png) YouTube](https://www.youtube.com/@MFS06MT)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C4%91o%C3%A0n-anh-tu%E1%BA%A5n-59604038b/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tuanda2309)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MFS06MT)
+[![Zalo](https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white)](https://zalo.me/0399848871)
 
 ---
 
