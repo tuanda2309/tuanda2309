@@ -1,3 +1,10 @@
+### 👋 WELCOME TO MY PAGE  
+My name is **Đoàn Anh Tuấn**.  
+I'm a student majoring in **Information Technology**, passionate about **Data Science**, **AI**, and **Software Development**.  
+I love learning new technologies and building small useful projects for practice and fun. 💻  
+
+---
+
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100053451282737&mibextid=ZbWKwL)
 [![Zalo](https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white)](https://zalo.me/0399848871)
@@ -6,7 +13,7 @@
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -15,10 +22,27 @@
 
 ---
 
-# 📊 GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=tuanda2309&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=tuanda2309&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tuanda2309&theme=radical&hide_border=false&include_all_commits=false&layout=compact)
+## 📫 How to reach me
+[![LinkedIn](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/%C4%91o%C3%A0n-anh-tu%E1%BA%A5n-59604038b/) 
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/tuanda2309)
+[![YouTube](https://github.com/vietnh1009/introduction/blob/main/Youtube.png) YouTube](https://www.youtube.com/@MFS06MT)
+
+---
+
+## 📊 GitHub Stats
+![Tuan's github stats](https://github-readme-stats.vercel.app/api?username=tuanda2309&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tuanda2309&theme=tokyonight&hide_border=false)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuanda2309&layout=compact&theme=tokyonight)
+
+---
+
+## 🚀 Featured Projects
+<a href="https://github.com/tuanda2309">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tuanda2309&repo=Cat_1&theme=radical" />
+</a>
+<a href="https://github.com/tuanda2309">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tuanda2309&repo=Cat_2&theme=merko" />
+</a>
 
 ---
 
