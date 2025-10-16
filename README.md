@@ -1,7 +1,14 @@
-### 👋 WELCOME TO MY PAGE  
-My name is **Đoàn Anh Tuấn**.  
-I'm currently a student majoring in **Information Technology**, but in the future, I aim to pursue a **Master’s degree in Applied Mathematics**, specializing in **Mathematical Analysis**.  
-I enjoy learning new technologies and exploring how mathematics can be applied to data science. 💻
+<h1 align="center">👋 WELCOME TO MY PAGE 👋</h1>
+
+<p align="center">
+  <b>My name is Đoàn Anh Tuấn</b><br>
+  🎓 I'm currently a student majoring in <b>Information Technology</b>.<br>
+  📘 In the future, I aim to pursue a <b>Master’s degree in Applied Mathematics</b>, specializing in <b>Mathematical Analysis</b>.<br>
+  💡 I love exploring how <b>mathematics</b> can be applied to <b>data science</b> and <b>AI</b>.<br>
+  🎮 In my free time, I sometimes develop small <b>games</b> of my own just for fun and learning.  
+</p>
+
+---
 
 ---
 
