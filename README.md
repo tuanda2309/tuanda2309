@@ -40,10 +40,10 @@ I love learning new technologies and building small useful projects for practice
 ---
 
 ## 🚀 Featured Projects
-<a href="https://github.com/tuanda2309">
+<a href="https://github.com/tuanda2309/Cat_1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tuanda2309&repo=Cat_1&theme=radical" />
 </a>
-<a href="https://github.com/tuanda2309">
+<a href="https://github.com/tuanda2309/Cat_2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tuanda2309&repo=Cat_2&theme=merko" />
 </a>
 
