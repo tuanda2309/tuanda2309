@@ -1,7 +1,7 @@
 ### 👋 WELCOME TO MY PAGE  
 My name is **Đoàn Anh Tuấn**.  
-I'm a student majoring in **Information Technology**, passionate about **Data Science**, **AI**, and **Software Development**.  
-I love learning new technologies and building small useful projects for practice and fun. 💻  
+I'm currently a student majoring in **Information Technology**, but in the future, I aim to pursue a **Master’s degree in Applied Mathematics**, specializing in **Mathematical Analysis**.  
+I enjoy learning new technologies and exploring how mathematics can be applied to data science. 💻
 
 ---
 
