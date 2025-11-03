@@ -36,10 +36,10 @@
        alt="Cat Adventure World" />
 </a>
 
-<a href="https://github.com/tuanda2309/Cheat-SEB"> 
-<img align="center" 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=tuanda2309&repo=SEB&theme=merko" 
-    alt="SEB" /> 
+<a href="https://github.com/tuanda2309/Cheat-SEB">
+  <img align="center"
+       src="https://github-readme-stats.vercel.app/api/pin/?username=tuanda2309&repo=Cheat-SEB&theme=merko"
+       alt="Cheat-SEB" />
 </a>
 
 [![](https://visitcount.itsvg.in/api?id=tuanda2309&icon=0&color=0)](https://visitcount.itsvg.in)
