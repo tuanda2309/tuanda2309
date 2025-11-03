@@ -36,8 +36,19 @@
          width="300" 
          style="border-radius: 10px; margin-top: 10px;">
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/tuanda2309/SEB">
+    <img src="https://opengraph.githubassets.com/1/tuanda2309/SEB" 
+         alt="SEB Repository Preview" 
+         width="300" 
+         style="border-radius: 10px; margin-top: 10px;">
+  </a>
   <br>
-  <b><a href="https://github.com/tuanda2309/Cat-Adventure-World">🐱 Cat Adventure World (Cat Adventure: Jump & Run)</a></b>
+  <b>
+    <a href="https://github.com/tuanda2309/Cat-Adventure-World">🐱 Cat Adventure World (Cat Adventure: Jump & Run)</a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/tuanda2309/SEB">💼 SEB Project</a>
+  </b>
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=tuanda2309&icon=0&color=0)](https://visitcount.itsvg.in)
