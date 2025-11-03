@@ -46,22 +46,6 @@
         </a>
       </b>
     </td>
-
-    <!-- Project 2 -->
-    <td align="center" style="width:50%; vertical-align:top; padding:10px;">
-      <a href="https://github.com/tuanda2309/SEB">
-        <img src="https://opengraph.githubassets.com/1/tuanda2309/SEB"
-             alt="SEB Repository Preview"
-             width="320"
-             style="border-radius:10px; margin-bottom:10px;">
-      </a>
-      <br>
-      <b>
-        <a href="https://github.com/tuanda2309/SEB">
-          💼 SEB Project
-        </a>
-      </b>
-    </td>
   </tr>
 </table>
 
