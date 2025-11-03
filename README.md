@@ -36,7 +36,7 @@
        alt="Cat Adventure World" />
 </a>
 
-<a href="https://github.com/tuanda2309/SEB"> 
+<a href="https://github.com/tuanda2309/Cheat-SEB"> 
 <img align="center" 
     src="https://github-readme-stats.vercel.app/api/pin/?username=tuanda2309&repo=SEB&theme=merko" 
     alt="SEB" /> 
