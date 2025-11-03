@@ -37,9 +37,7 @@
 </a>
 
 <a href="https://github.com/tuanda2309/SEB">
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api/pin/?username=tuanda2309&repo=SEB&theme=merko"
-       alt="Cheat SEB" />
+  <img src="https://img.shields.io/badge/Project-Cheat SEB-brightgreen?style=for-the-badge&logo=github" />
 </a>
 
 
