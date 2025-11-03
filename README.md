@@ -33,7 +33,7 @@
   <a href="https://github.com/tuanda2309/Cat-Adventure-World">
     <img src="https://opengraph.githubassets.com/1/tuanda2309/Cat-Adventure-World" 
          alt="Cat Adventure World Repository Preview" 
-         width="400" 
+         width="300" 
          style="border-radius: 10px; margin-top: 10px;">
   </a>
   <br>
