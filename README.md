@@ -37,8 +37,10 @@
 </a>
 
 <a href="https://github.com/tuanda2309/SEB">
-  <img src="https://img.shields.io/badge/Project-Cheat SEB-brightgreen?style=for-the-badge&logo=github" />
-</a>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuanda2309&repo=SEB&theme=merko"
+         alt="Cheat SEB"
+         title="Cheat SEB" />
+  </a>
 
 
 [![](https://visitcount.itsvg.in/api?id=tuanda2309&icon=0&color=0)](https://visitcount.itsvg.in)
