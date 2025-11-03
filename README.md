@@ -28,9 +28,9 @@
 ![Tuan's github stats](https://github-readme-stats.vercel.app/api?username=tuanda2309&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuanda2309&layout=compact&theme=tokyonight)
 
-## 🚀 Projects
-<a href="https://github.com/tuanda2309/Cat Adventure World">
-  <img align="center" src="https://github.com/tuanda2309/Cat-Adventure-World" />
+[## 🚀 Projects
+<a href="https://github.com/tuanda2309/Cat-Adventure-World">
+  <img src="https://opengraph.githubassets.com/1/tuanda2309/Cat-Adventure-World" alt="Cat Adventure World Repository Preview" width="600">
 </a>
 
 [![](https://visitcount.itsvg.in/api?id=tuanda2309&icon=0&color=0)](https://visitcount.itsvg.in)
