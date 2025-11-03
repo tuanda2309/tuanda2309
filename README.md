@@ -29,24 +29,18 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuanda2309&layout=compact&theme=tokyonight)
 
 ## 🚀 Projects
-<table style="width:100%; border-collapse: collapse;">
-  <tr>
-    <!-- Project 1 -->
-    <td align="center" style="width:50%; vertical-align:top; padding:10px;">
-      <a href="https://github.com/tuanda2309/Cat-Adventure-World">
-        <img src="https://opengraph.githubassets.com/1/tuanda2309/Cat-Adventure-World"
-             alt="Cat Adventure World Repository Preview"
-             width="320"
-             style="border-radius:10px; margin-bottom:10px;">
-      </a>
-      <br>
-      <b>
-        <a href="https://github.com/tuanda2309/Cat-Adventure-World">
-          🐱 Cat Adventure World (Cat Adventure: Jump & Run)
-        </a>
-      </b>
-    </td>
-  </tr>
-</table>
+
+<a href="https://github.com/tuanda2309/Cat-Adventure-World">
+  <img align="center"
+       src="https://github-readme-stats.vercel.app/api/pin/?username=tuanda2309&repo=Cat-Adventure-World&theme=radical"
+       alt="Cat Adventure World" />
+</a>
+
+<a href="https://github.com/tuanda2309/SEB">
+  <img align="center"
+       src="https://github-readme-stats.vercel.app/api/pin/?username=tuanda2309&repo=SEB&theme=merko"
+       alt="SEB" />
+</a>
+
 
 [![](https://visitcount.itsvg.in/api?id=tuanda2309&icon=0&color=0)](https://visitcount.itsvg.in)
