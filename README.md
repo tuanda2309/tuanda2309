@@ -30,20 +30,17 @@
 
 ## 🚀 Projects
 
-## 🚀 Projects
+<a href="https://github.com/tuanda2309/Cat-Adventure-World">
+  <img align="center"
+       src="https://github-readme-stats.vercel.app/api/pin/?username=tuanda2309&repo=Cat-Adventure-World&theme=radical"
+       alt="Cat Adventure World" />
+</a>
 
-<div align="center">
+<a href="https://github.com/tuanda2309/SEB">
+  <img align="center"
+       src="https://github-readme-stats.vercel.app/api/pin/?username=tuanda2309&repo=SEB&theme=merko"
+       alt="SEB" />
+</a>
 
-  <a href="https://github.com/tuanda2309/Cat-Adventure-World">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuanda2309&repo=Cat-Adventure-World&theme=radical"
-         alt="Cat Adventure World" />
-  </a>
-
-  <a href="https://github.com/tuanda2309/SEB">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuanda2309&repo=SEB&theme=merko"
-         alt="SEB" />
-  </a>
-
-</div>
 
 [![](https://visitcount.itsvg.in/api?id=tuanda2309&icon=0&color=0)](https://visitcount.itsvg.in)
