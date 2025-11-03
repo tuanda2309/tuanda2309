@@ -2,7 +2,6 @@
 
 <p align="center">
   <b>Hi, I'm Tuan 👋</b><br>
-  🎮 In my free time, I sometimes develop small <b>games</b> of my own just for fun and learning.  
 </p>
 
 ## 🌐 Socials
