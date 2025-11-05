@@ -2,6 +2,7 @@
 
 <p align="center">
   <b>Hi, I'm Tuan 👋</b><br>
+  <b>I just make games for fun, I probably won't pursue IT.</b><br>
 </p>
 
 ## 🌐 Socials
