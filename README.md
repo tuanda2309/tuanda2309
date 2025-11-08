@@ -43,8 +43,4 @@
        alt="Cheat-SEB" />
 </a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tuanda2309&repo=Cheat-SEB&color=brightgreen&style=flat-square&label=Views👁️" alt="Cheat-SEB views"/>
-</p>
-
 [![](https://visitcount.itsvg.in/api?id=tuanda2309&icon=0&color=0)](https://visitcount.itsvg.in)
