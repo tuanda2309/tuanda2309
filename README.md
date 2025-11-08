@@ -1,7 +1,6 @@
 <h1 align="center">👋 WELCOME TO MY PAGE 👋</h1>
 
-<p align="center">
-
+<p align="center"
   <b>Hi, I'm Tuan
   <img width="30" height="30" alt="logo" 
          src="https://github.com/user-attachments/assets/dfabaaaf-e1ec-4108-aa28-791ec31debc1"
