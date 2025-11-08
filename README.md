@@ -1,13 +1,9 @@
 <h1 align="center">👋 WELCOME TO MY PAGE 👋</h1>
 
 <p align="center">
-  <b>Hi, I'm Tuan
-  <img width="30" height="30" alt="logo" 
-     src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/1200px-Manchester_United_FC_crest.svg.png"
-     style="vertical-align: middle; position: relative; top: 5px; margin-left: 6px;"/>
-  </b><br>
+  <b>Hi, I'm Tuan</b><br>
   <b>I just make games for fun, I probably won't pursue IT.</b><br>
-  <b>FUCK IT🖕</b>
+  <b>FUCK IT🖕</b><br>
 </p>
 
 ## 🌐 Socials
