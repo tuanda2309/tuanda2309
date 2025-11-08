@@ -39,7 +39,7 @@
 
 <a href="https://github.com/tuanda2309/Cheat-SEB">
   <img align="center"
-       src="https://github-readme-stats.vercel.app/api/pin/?username=tuanda2309&repo=Cheat-SEB&theme=merko"
+       src="https://github-readme-stats.vercel.app/api/pin/?username=tuanda2309&repo=Cheat-SEB&theme=merko&cache_seconds=60"
        alt="Cheat-SEB" />
 </a>
 
