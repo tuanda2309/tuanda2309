@@ -2,6 +2,7 @@
 
 <p align="center">
   <b>Hi, I'm Tuan 👋</b><br>
+  
   <b><img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/dfabaaaf-e1ec-4108-aa28-791ec31debc1" /> </b><br> 
   <b>I just make games for fun, I probably won't pursue IT.</b><br>
   <b>FUCK IT🖕</b><br>  
