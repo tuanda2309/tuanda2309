@@ -5,7 +5,7 @@
   <b>
     <img width="30" height="30" alt="MU"
          src="https://github.com/user-attachments/assets/f8d57a89-ed6b-4391-81c5-6df446d6d51b"
-         style="position: relative; top: 4px;">
+         style="position: relative; top: 40px;">
   </b><br>
   <b>I just make games for fun, I probably won't pursue IT.</b><br>
   <b>FUCK IT🖕</b><br>
