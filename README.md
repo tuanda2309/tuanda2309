@@ -1,10 +1,10 @@
 <h1 align="center">👋 WELCOME TO MY PAGE 👋</h1>
 
 <p align="center">
-  <b>Hi, I'm Tuan</b><br>
-  <b><img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/0fe17af8-c4de-4ac9-bb8b-55da988965a5" /></b><br> 
+  <b style="font-size: 20px;">Hi, I'm Tuan</b><br><br>
+  <img width="40" height="40" src="https://github.com/user-attachments/assets/dfabaaaf-e1ec-4108-aa28-791ec31debc1"><br><br>
   <b>I just make games for fun, I probably won't pursue IT.</b><br>
-  <b>FUCK IT🖕</b><br>  
+  <b>FUCK IT🖕</b>
 </p>
 
 ## 🌐 Socials
