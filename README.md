@@ -32,7 +32,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuanda2309&layout=compact&theme=tokyonight)
 
 ## 🚀 Projects
-
 <a href="https://github.com/tuanda2309/Cat-Adventure-World">
   <img align="center"
      src="https://github-readme-stats.vercel.app/api/pin/?username=tuanda2309&repo=Cat-Adventure-World&theme=radical&cache_seconds=60"
@@ -56,4 +55,5 @@
        src="https://github-readme-stats.vercel.app/api/pin/?username=tuanda2309&repo=FUCK-Coding&theme=merko&cache_seconds=60"
        alt="FUCK-CODING" />
 </a>
+
 [![](https://visitcount.itsvg.in/api?id=tuanda2309&icon=0&color=0)](https://visitcount.itsvg.in)
