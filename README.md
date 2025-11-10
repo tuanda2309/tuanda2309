@@ -13,7 +13,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100053451282737&mibextid=ZbWKwL)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tuanda2309)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C4%91o%C3%A0n-anh-tu%E1%BA%A5n-59604038b/)
-
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Early_Day_2968/)
 
 ## 📊 GitHub Stats
 ![Tuan's github stats](https://github-readme-stats.vercel.app/api?username=tuanda2309&show_icons=true&theme=radical)
@@ -35,6 +35,5 @@
 <a href="https://github.com/tuanda2309/FUCK-CODING"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tuanda2309&repo=FUCK-CODING&theme=gruvbox" /> 
 </a>
-
 
 [![](https://visitcount.itsvg.in/api?id=tuanda2309&icon=0&color=0)](https://visitcount.itsvg.in)
