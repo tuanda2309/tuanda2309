@@ -34,15 +34,27 @@
 ## 🚀 Projects
 
 <a href="https://github.com/tuanda2309/Cat-Adventure-World">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tuanda2309&repo=Cat-Adventure-World&theme=merko&t=1" />
-</a><a href="https://github.com/tuanda2309/Cheat-SEB">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tuanda2309&repo=Cheat-SEB&theme=gruvbox&t=2" />
+  <img align="center"
+     src="https://github-readme-stats.vercel.app/api/pin/?username=tuanda2309&repo=Cat-Adventure-World&theme=radical&t=1"
+     alt="Cat Adventure World" />
+</a>
+
+<a href="https://github.com/tuanda2309/Cheat-SEB">
+  <img align="center"
+       src="https://github-readme-stats.vercel.app/api/pin/?username=tuanda2309&repo=Cheat-SEB&theme=merko&t=2"
+       alt="Cheat-SEB" />
 </a>
 
 <a href="https://github.com/tuanda2309/Flappy-Bird-Game-2D-Unity">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tuanda2309&repo=Flappy-Bird-Game-2D-Unity&theme=dark&t=3" />
-</a><a href="https://github.com/tuanda2309/FUCK-CODING">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tuanda2309&repo=FUCK-CODING&theme=onedark&t=4" />
+  <img align="center"
+       src="https://github-readme-stats.vercel.app/api/pin/?username=tuanda2309&repo=Flappy-Bird-Game-2D-Unity&theme=merko&t=3"
+       alt="Flappy-Bird-Game-2D-Unity" />
+</a>
+
+<a href="https://github.com/tuanda2309/FUCK-CODING">
+  <img align="center"
+       src="https://github-readme-stats.vercel.app/api/pin/?username=tuanda2309&repo=FUCK-CODING&theme=merko&t=4"
+       alt="FUCK-CODING" />
 </a>
 
 [![](https://visitcount.itsvg.in/api?id=tuanda2309&icon=0&color=0)](https://visitcount.itsvg.in)
