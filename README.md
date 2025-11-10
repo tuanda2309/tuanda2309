@@ -8,11 +8,12 @@
 </p>  
 
 ## 📫 How to reach me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C4%91o%C3%A0n-anh-tu%E1%BA%A5n-59604038b/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tuanda2309)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MFS06MT)
 [![Zalo](https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white)](https://zalo.me/0399848871)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100053451282737&mibextid=ZbWKwL)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tuanda2309)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C4%91o%C3%A0n-anh-tu%E1%BA%A5n-59604038b/)
+
 
 ## 📊 GitHub Stats
 ![Tuan's github stats](https://github-readme-stats.vercel.app/api?username=tuanda2309&show_icons=true&theme=radical)
