@@ -43,7 +43,6 @@
       alt="Cheat-SEB" />
   </a>
 </p>
-
 <p align="center">
   <a href="https://github.com/tuanda2309/Flappy-Bird-Game-2D-Unity" style="display:inline-block;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuanda2309&repo=Flappy-Bird-Game-2D-Unity&theme=merko&t=3"
