@@ -32,6 +32,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuanda2309&layout=compact&theme=tokyonight)
 
 ## 🚀 Projects
+
 <a href="https://github.com/tuanda2309/Cat-Adventure-World">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tuanda2309&repo=Cat-Adventure-World&theme=merko&t=1" />
 </a>
