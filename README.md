@@ -51,10 +51,10 @@
        alt="Flappy-Bird-Game-2D-Unity" />
 </a>
 
-<a href="https://github.com/tuanda2309/FUCK-Coding">
+<a href="https://github.com/tuanda2309/FUCK-CODING">
   <img align="center"
-       src="https://github-readme-stats.vercel.app/api/pin/?username=tuanda2309&repo=FUCK-Coding&theme=merko&t=4"
-       alt="FUCK-Coding" />
+       src="https://github-readme-stats.vercel.app/api/pin/?username=tuanda2309&repo=FUCK-CODING&theme=merko&t=4"
+       alt="FUCK-CODING" />
 </a>
 
 [![](https://visitcount.itsvg.in/api?id=tuanda2309&icon=0&color=0)](https://visitcount.itsvg.in)
