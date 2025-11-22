@@ -37,7 +37,7 @@
 </a>
 
 <a href="https://github.com/tuanda2309/LingBook"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tuanda2309&repo=LingBook&theme=cobalt" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tuanda2309&repo=LingBook&theme=dracula" /> 
 </a>
 
 [![](https://visitcount.itsvg.in/api?id=tuanda2309&icon=0&color=0)](https://visitcount.itsvg.in)
