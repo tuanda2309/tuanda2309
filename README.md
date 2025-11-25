@@ -21,19 +21,19 @@
 
 ## 🚀 Projects 
 <a href="https://github.com/tuanda2309/Cat-Adventure-World"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tuanda2309&repo=Cat-Adventure-World&theme=radical" /> 
+  <img align="center" src="https://github-readme-stats-seven-iota-90.vercel.app/api/pin/?username=tuanda2309&repo=Cat-Adventure-World&theme=radical" /> 
 </a> 
 
 <a href="https://github.com/tuanda2309/Cheat-SEB"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tuanda2309&repo=Cheat-SEB&theme=merko" /> 
+  <img align="center" src="https://github-readme-stats-seven-iota-90.vercel.app/api/pin/?username=tuanda2309&repo=Cheat-SEB&theme=merko" /> 
 </a> 
 
 <a href="https://github.com/tuanda2309/Flappy-Bird-Game-2D-Unity"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tuanda2309&repo=Flappy-Bird-Game-2D-Unity&theme=tokyonight" /> 
+  <img align="center" src="https://github-readme-stats-seven-iota-90.vercel.app/api/pin/?username=tuanda2309&repo=Flappy-Bird-Game-2D-Unity&theme=tokyonight" /> 
 </a> 
 
 <a href="https://github.com/tuanda2309/FUCK-CODING"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tuanda2309&repo=FUCK-CODING&theme=gruvbox" /> 
+  <img align="center" src="https://github-readme-stats-seven-iota-90.vercel.app/api/pin/?username=tuanda2309&repo=FUCK-CODING&theme=gruvbox" /> 
 </a>
 
 [![](https://visitcount.itsvg.in/api?id=tuanda2309&icon=0&color=0)](https://visitcount.itsvg.in)
