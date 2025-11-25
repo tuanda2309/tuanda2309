@@ -16,8 +16,8 @@
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Early_Day_2968/)
 
 ## 📊 GitHub Stats
-![Tuan's github stats](https://github-readme-stats-seven-iota-90.vercel.app/api?username=tuanda2309&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats-seven-iota-90.vercel.app/api/top-langs/?username=tuanda2309&layout=compact&theme=merko)
+![Tuan's github stats](https://github-readme-stats-seven-iota-90.vercel.app/api?username=tuanda2309&show_icons=true&theme=radical&v=1)
+![Top Langs](https://github-readme-stats-seven-iota-90.vercel.app/api/top-langs/?username=tuanda2309&layout=compact&theme=merko&v=1)
 
 ## 🚀 Projects 
 <a href="https://github.com/tuanda2309/Cat-Adventure-World"> 
