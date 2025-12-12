@@ -24,8 +24,8 @@
   <img align="center" src="https://github-readme-stats-seven-iota-90.vercel.app/api/pin/?username=tuanda2309&repo=Cat-Adventure-World&theme=radical" /> 
 </a> 
 
-<a href="https://github.com/tuanda2309/Cheat-SEB"> 
-  <img align="center" src="https://github-readme-stats-seven-iota-90.vercel.app/api/pin/?username=tuanda2309&repo=Cheat-SEB&theme=merko" /> 
+<a href="https://github.com/tuanda2309/LingBook"> 
+  <img align="center" src="https://github-readme-stats-seven-iota-90.vercel.app/api/pin/?username=tuanda2309&repo=LingBook&theme=merko" /> 
 </a> 
 
 <a href="https://github.com/tuanda2309/Flappy-Bird-Game-2D-Unity"> 
