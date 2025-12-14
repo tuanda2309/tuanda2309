@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Hi, I'm Tuan👋</b><br>
-  <b>I just make games for fun🤡, I probably won't pursue IT. I'm so tired of it.</b><br>
+  <b>I just make games for fun 🎮, I probably won't pursue IT. I'm so tired of it.</b><br>
   <b>🖕FUCK CODING🖕FUCK IT🖕</b><br><br>
   <b><img width="39" height="39" alt="MU" src="https://github.com/user-attachments/assets/42835eb3-fc35-4c23-b3c9-bbf886c155c1"/></b><br>
 </p>  
