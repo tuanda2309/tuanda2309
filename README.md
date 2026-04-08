@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img width="100" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3U4ZndueGZ0eXN6eHpsbmpxbm56eGZ0eXN6eHpsbmpxbm56eGZ0JnB0PWFjdGl2ZV9naWZfbm9kZSZjdD1z/Lp8W1SkhE6K2zH9q6C/giphy.gif" alt="MU FC Animated"/>
+  <img width="120" src="https://c.tenor.com/2Y_Xp76D92AAAAAC/manchester-united-logo.gif" alt="MU FC Animated"/>
 </p>
 
 ## 🛠 Technical Stack
