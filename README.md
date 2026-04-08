@@ -59,7 +59,7 @@
   <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Calendar" />
 </p>
 
-<h2 align='center'><i>Activity Graph 📈</i></h2>
+## 📈 Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tuanda2309&theme=react&area=true&hide_border=true" width="100%" />
 </p>
