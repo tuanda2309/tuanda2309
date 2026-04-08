@@ -2,10 +2,9 @@
 
 <p align="center">
   <b>Hi, I'm Tuan👋</b><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=Bachelor;Data+Analyst;Information+Technology" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=Bachelor;Data+Analyst;Information+Technology;Data+Storyteller;Tech+Enthusiast" alt="Typing Animation"/><br><br>
+  <img width="150" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/main/Football/ManUtd.gif" alt="MU FC Animated"/>
 </p>
-
-![Manchester United Logo Animation - Premier League 2018_2019](https://github.com/user-attachments/assets/0ee9b952-8612-4b56-872b-74243f33e602)
 
 ## 🛠 Technical Stack
 <p align="left">
