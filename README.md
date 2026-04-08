@@ -9,8 +9,9 @@
   <img width="150" src="https://github.com/user-attachments/assets/5f33080c-f2bb-43b4-925e-11fe516b00d6" alt="MU Logo Animation" />
 </p>
 
-## 🛠 Languages and Tools
-<table>
+<h2 align='center'><i>Languages and Tools</i></h2>
+
+<table align="center">
   <tr>
     <td align='center' width="160">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" alt="python" />
