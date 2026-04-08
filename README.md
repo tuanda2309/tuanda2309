@@ -5,9 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=Bachelor;Data+Analyst;Information+Technology" alt="Typing Animation"/>
 </p>
 
-<p align="center">
-  <img width="120" src="https://c.tenor.com/2Y_Xp76D92AAAAAC/manchester-united-logo.gif" alt="MU FC Animated"/>
-</p>
+![Manchester United Logo Animation - Premier League 2018_2019](https://github.com/user-attachments/assets/0ee9b952-8612-4b56-872b-74243f33e602)
 
 ## 🛠 Technical Stack
 <p align="left">
