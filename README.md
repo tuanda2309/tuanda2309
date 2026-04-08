@@ -44,11 +44,11 @@
         <br>Matplotlib
     </td>
     <td align='center' width="160">
-        <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="50" alt="powerbi" />
+        <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-tile.svg" width="50" alt="powerbi" />
         <br>Power BI
     </td>
     <td align='center' width="160">
-        <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" width="50" alt="excel" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft-excel/microsoft-excel-original.svg" width="50" alt="excel" />
         <br>Excel
     </td>
     <td align='center' width="160">
