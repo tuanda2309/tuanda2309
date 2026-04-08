@@ -14,45 +14,45 @@
 <table>
   <tr>
     <td align='center' width="160">
-        <img src="https://cdn.simpleicons.org/python/3776AB" width="50" alt="python" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" alt="python" />
         <br>Python
     </td>
     <td align='center' width="160">
-        <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="50" alt="c++" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" alt="c++" />
         <br>C++
     </td>
     <td align='center' width="160">
-        <img src="https://cdn.simpleicons.org/sqlite/003B57" width="50" alt="sql" />
+        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="50" alt="sql" />
         <br>SQL
     </td>
     <td align='center' width="160">
-        <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="50" alt="firebase" />
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" alt="firebase" />
         <br>Firebase
     </td>
     <td align='center' width="160">
-        <img src="https://cdn.simpleicons.org/pandas/150458" width="50" alt="pandas" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" alt="pandas" />
         <br>Pandas
     </td>
   </tr>
   <tr>
     <td align='center' width="160">
-        <img src="https://cdn.simpleicons.org/numpy/013243" width="50" alt="numpy" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50" alt="numpy" />
         <br>NumPy
     </td>
     <td align='center' width="160">
-        <img src="https://cdn.simpleicons.org/matplotlib/111111" width="50" alt="matplotlib" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="50" alt="matplotlib" />
         <br>Matplotlib
     </td>
     <td align='center' width="160">
-        <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="50" alt="powerbi" />
+        <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="50" alt="powerbi" />
         <br>Power BI
     </td>
     <td align='center' width="160">
-        <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="50" alt="excel" />
+        <img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/png/256/excel.png" width="50" alt="excel" />
         <br>Excel
     </td>
     <td align='center' width="160">
-        <img src="https://cdn.simpleicons.org/git/F05032" width="50" alt="git" />
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" alt="git" />
         <br>Git
     </td>
   </tr>
