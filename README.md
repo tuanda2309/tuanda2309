@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <b><img width="39" height="39" alt="MU" src="https://github.com/user-attachments/assets/42835eb3-fc35-4c23-b3c9-bbf886c155c1"/></b><br>
+  <img width="100" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3U4ZndueGZ0eXN6eHpsbmpxbm56eGZ0eXN6eHpsbmpxbm56eGZ0JnB0PWFjdGl2ZV9naWZfbm9kZSZjdD1z/Lp8W1SkhE6K2zH9q6C/giphy.gif" alt="MU FC Animated"/>
 </p>
 
 ## 🛠 Technical Stack
