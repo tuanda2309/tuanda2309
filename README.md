@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img width="150" src="https://github.com/user-attachments/assets/c96307ce-e7da-4435-83cc-731872bae75f" alt="MU Logo Animation" />
+  <img width="150" src="https://github.com/user-attachments/assets/5f33080c-f2bb-43b4-925e-11fe516b00d6" alt="MU Logo Animation" />
 </p>
 
 ## 🛠 Technical Stack
