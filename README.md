@@ -49,10 +49,6 @@
   <img align="center" src="https://github-readme-stats-seven-iota-90.vercel.app/api/pin/?username=tuanda2309&repo=Flappy-Bird-Game-2D-Unity&theme=tokyonight" /> 
 </a> 
 
-<a href="https://github.com/tuanda2309/FUCK-CODING"> 
-  <img align="center" src="https://github-readme-stats-seven-iota-90.vercel.app/api/pin/?username=tuanda2309&repo=FUCK-CODING&theme=gruvbox" /> 
-</a>
-
 <a href="https://github.com/tuanda2309/Cheat-SEB"> 
   <img align="center" src="https://github-readme-stats-seven-iota-90.vercel.app/api/pin/?username=tuanda2309&repo=Cheat-SEB&theme=dracula" /> 
 </a>
