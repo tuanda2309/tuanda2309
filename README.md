@@ -1,11 +1,13 @@
 <h1 align="center">👋 WELCOME TO MY PAGE 👋</h1>
 
 <p align="center">
-  <b>Hi, I'm Tuan👋</b><br>
-  <b>I just make games for fun 🎮, I probably won't pursue IT. I'm so tired of it.</b><br>
-  <b>🖕FUCK CODING🖕FUCK IT🖕</b><br><br>
+  <b>Hi, I'm Tuan👋</b><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=Bachelor;Data+Analyst;Data+Visualizer;Turning+Data+into+Insights!" alt="Typing Animation"/>
+</p>
+
+<p align="center">
   <b><img width="39" height="39" alt="MU" src="https://github.com/user-attachments/assets/42835eb3-fc35-4c23-b3c9-bbf886c155c1"/></b><br>
-</p>  
+</p>
 
 ## 🛠 Technical Stack
 <p align="left">
