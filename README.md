@@ -61,7 +61,7 @@
 
 ## 📈 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tuanda2309&theme=react&area=true&hide_border=true&custom_title=Monthly%20Contribution%20Activity%20(April%202026)" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tuanda2309&theme=react&area=true&hide_border=true" width="100%" />
 </p>
 
 ## 🐍 GitHub Activity
