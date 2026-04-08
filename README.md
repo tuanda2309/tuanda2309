@@ -2,11 +2,11 @@
 
 <p align="center">
   <b>Hi, I'm Tuan👋</b><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=Bachelor;Data+Analyst;Information+Technology;Data+Storyteller;Tech+Enthusiast" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=Bachelor;Data+Analyst;Information+Technology" alt="Typing Animation"/>
 </p>
 
 <p align="center">
-  <img width="120" src="![Manchester United Logo Animation - Premier League 2018_2019](https://github.com/user-attachments/assets/c96307ce-e7da-4435-83cc-731872bae75f)"/>
+  <img width="150" src="https://github.com/user-attachments/assets/c96307ce-e7da-4435-83cc-731872bae75f" alt="MU Logo Animation" />
 </p>
 
 ## 🛠 Technical Stack
