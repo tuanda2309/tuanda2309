@@ -57,5 +57,11 @@
   <img align="center" src="https://github-readme-stats-seven-iota-90.vercel.app/api/pin/?username=tuanda2309&repo=Cheat-SEB&theme=dracula" /> 
 </a>
 
+## 🐍 GitHub Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tuanda2309/tuanda2309/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
+
 [![](https://visitcount.itsvg.in/api?id=tuanda2309&icon=0&color=0)](https://visitcount.itsvg.in)
 
