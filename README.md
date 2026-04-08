@@ -9,20 +9,54 @@
   <img width="150" src="https://github.com/user-attachments/assets/5f33080c-f2bb-43b4-925e-11fe516b00d6" alt="MU Logo Animation" />
 </p>
 
-## 🛠 Technical Stack
+<h2 align='center'><i>Languages and Tools</i></h2>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+<table align="center">
+  <tr>
+    <td align='center' width="160">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" alt="python" />
+        <br>Python
+    </td>
+    <td align='center' width="160">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" alt="c++" />
+        <br>C++
+    </td>
+    <td align='center' width="160">
+        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="50" alt="sql" />
+        <br>SQL
+    </td>
+    <td align='center' width="160">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" alt="firebase" />
+        <br>Firebase
+    </td>
+    <td align='center' width="160">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" alt="pandas" />
+        <br>Pandas
+    </td>
+  </tr>
+  <tr>
+    <td align='center' width="160">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50" alt="numpy" />
+        <br>NumPy
+    </td>
+    <td align='center' width="160">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="50" alt="matplotlib" />
+        <br>Matplotlib
+    </td>
+    <td align='center' width="160">
+        <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="50" alt="powerbi" />
+        <br>Power BI
+    </td>
+    <td align='center' width="160">
+        <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" width="50" alt="excel" />
+        <br>Excel
+    </td>
+    <td align='center' width="160">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" alt="git" />
+        <br>Git
+    </td>
+  </tr>
+</table>
 
 ## 📫 How to reach me
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MFS06MT)
