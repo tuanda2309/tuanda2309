@@ -59,6 +59,11 @@
   <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Calendar" />
 </p>
 
+## 📉 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tuanda2309&theme=radical&color=ff0000&bg_color=0D1117&hide_border=true" width="100%" />
+</p>
+
 ## 🐍 GitHub Activity
 
 <p align="center">
