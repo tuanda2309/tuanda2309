@@ -63,11 +63,6 @@
   <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Calendar" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuanda2309&show_icons=true&theme=radical&include_all_commits=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuanda2309&layout=donut&theme=radical" width="300" />
-</p>
-
 ## 🐍 GitHub Activity
 
 <p align="center">
