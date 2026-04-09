@@ -9,10 +9,8 @@ jobs:
   update-charts:
     name: Update wakatime stats charts
     runs-on: ubuntu-latest
-    permissions:
-      contents: write 
     steps:
       - uses: dvjn/wakatime-charts@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # only required if using the action in repository other than profile
