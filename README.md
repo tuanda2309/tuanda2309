@@ -98,6 +98,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tuanda2309&theme=react&area=true&hide_border=true" width="100%" />
 </p>
 
+## 📈 Programming & Project Analytics
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tuanda2309/tuanda2309/main/images/wakatime_weekly_language_stats.svg" alt="Weekly Language Stats" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/tuanda2309/tuanda2309/main/images/wakatime_weekly_project_stats.svg" alt="Weekly Project Stats" />
+</div>
+
 ## 🐍 GitHub Activity
 
 <p align="center">
