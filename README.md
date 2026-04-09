@@ -134,9 +134,9 @@
 ## 📈 Programming & Project Analytics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tuanda2309/tuanda2309/main/images/wakatime_weekly_language_stats.svg" alt="Weekly Language Stats" />
+  <img src="https://raw.githubusercontent.com/tuanda2309/tuanda2309/main/images/wakatime_weekly_language_stats.svg?v=1" alt="Weekly Language Stats" />
   <br/>
-  <img src="https://raw.githubusercontent.com/tuanda2309/tuanda2309/main/images/wakatime_weekly_project_stats.svg" alt="Weekly Project Stats" />
+  <img src="https://raw.githubusercontent.com/tuanda2309/tuanda2309/main/images/wakatime_weekly_project_stats.svg?v=1" alt="Weekly Project Stats" />
 </div>
 
 ## 🐍 GitHub Activity
