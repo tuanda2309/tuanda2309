@@ -5,13 +5,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=Bachelor;Data+Analyst;Information+Technology" alt="Typing Animation"/>
 </p>
 
-<p align="center">
-  <img width="150" src="https://github.com/user-attachments/assets/5f33080c-f2bb-43b4-925e-11fe516b00d6" alt="MU Logo Animation" />
-</p>
-
 <a href="#" target="_blank">
   <img src="svg/tuanda2309.svg" width="1200" alt="tuanda2309" />
 </a>
+
+<p align="center">
+  <img width="150" src="https://github.com/user-attachments/assets/5f33080c-f2bb-43b4-925e-11fe516b00d6" alt="MU Logo Animation" />
+</p>
 
 ## 🛠 Languages and Tools
 
