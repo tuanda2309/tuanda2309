@@ -98,6 +98,17 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tuanda2309&theme=react&area=true&hide_border=true" width="100%" />
 </p>
 
+## 🕒 Coding Habits & Productivity
+
+<p align="center">
+  <img src="profile-summary-card-output/tokyonight/0-productive-time.svg" width="48%" />
+  <img src="profile-summary-card-output/tokyonight/2-most-used-languages.svg" width="48%" />
+</p>
+
+<p align="center">
+  <img src="profile-summary-card-output/tokyonight/3-contributions-by-month.svg" width="100%" />
+</p>
+
 ## 🐍 GitHub Activity
 
 <p align="center">
