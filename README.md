@@ -66,6 +66,22 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C4%91o%C3%A0n-anh-tu%E1%BA%A5n-59604038b/)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Early_Day_2968/)
 
+## 🏆 GitHub Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuanda2309&theme=tokyonight" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tuanda2309&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tuanda2309&theme=tokyonight" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tuanda2309&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tuanda2309&theme=tokyonight&utcOffset=7" width="49%" />
+</p>
+
 ## 📊 GitHub Stats
 ![Tuan's github stats](https://github-readme-stats-seven-iota-90.vercel.app/api?username=tuanda2309&show_icons=true&theme=radical&v=1)
 ![Top Langs](https://github-readme-stats-seven-iota-90.vercel.app/api/top-langs/?username=tuanda2309&layout=compact&theme=merko&v=1)
