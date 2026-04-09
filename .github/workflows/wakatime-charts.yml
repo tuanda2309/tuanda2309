@@ -1,4 +1,4 @@
-name: tuanda2309 Wakatime Charts
+name: Wakatime Charts
 
 on:
   workflow_dispatch:
