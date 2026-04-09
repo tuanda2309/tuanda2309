@@ -98,12 +98,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tuanda2309&theme=react&area=true&hide_border=true" width="100%" />
 </p>
 
-## 🕒 Productive Time
-<p align="center">
-  <img src="profile-summary-card-output/tokyonight/0-productive-time.svg" width="400" />
-  <img src="profile-summary-card-output/tokyonight/2-most-used-languages.svg" width="400" />
-</p>
-
 ## 🐍 GitHub Activity
 
 <p align="center">
