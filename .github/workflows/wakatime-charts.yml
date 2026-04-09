@@ -1,4 +1,4 @@
-name: Wakatime Charts
+name: tuanda2309 Wakatime Charts
 
 on:
   workflow_dispatch:
@@ -10,9 +10,10 @@ jobs:
     name: Update wakatime stats charts
     runs-on: ubuntu-latest
     permissions:
-      contents: write 
+      contents: write
     steps:
       - uses: dvjn/wakatime-charts@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH_NAME: main 
