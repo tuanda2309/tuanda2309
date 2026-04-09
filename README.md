@@ -9,6 +9,10 @@
   <img width="150" src="https://github.com/user-attachments/assets/5f33080c-f2bb-43b4-925e-11fe516b00d6" alt="MU Logo Animation" />
 </p>
 
+<a href="#" target="_blank">
+  <img src="svg/tuanda2309.svg" width="1200" alt="tuanda2309" />
+</a>
+
 ## 🛠 Languages and Tools
 
 <table>
