@@ -66,11 +66,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C4%91o%C3%A0n-anh-tu%E1%BA%A5n-59604038b/)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Early_Day_2968/)
 
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/0-profile-details.svg)
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/3-stats.svg)
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/4-productive-time.svg)
+<div align="center">
+
+![](https://raw.githubusercontent.com/tuanda2309/tuanda2309/main/profile-summary-card-output/solarized/0-profile-details.svg)
+![](https://raw.githubusercontent.com/tuanda2309/tuanda2309/main/profile-summary-card-output/solarized/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/tuanda2309/tuanda2309/main/profile-summary-card-output/solarized/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/tuanda2309/tuanda2309/main/profile-summary-card-output/solarized/3-stats.svg)
+![](https://raw.githubusercontent.com/tuanda2309/tuanda2309/main/profile-summary-card-output/solarized/4-productive-time.svg)
 
 </div>
 
@@ -79,13 +81,13 @@
 |   |   |   |   |   |
 |:---:|:---:|:---:|:---:|:---:|
 |default|2077|dracula|github|github_dark|
-|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=2077)| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=github)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=github_dark)|
+|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuanda2309&theme=default)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuanda2309&theme=2077)| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuanda2309&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuanda2309&theme=github)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuanda2309&theme=github_dark)|
 |gruvbox|monokai|nord_bright|nord_dark|radical|
-|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=gruvbox)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=monokai)| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=nord_bright)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=nord_dark)  |![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=radical)|
+|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuanda2309&theme=gruvbox)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuanda2309&theme=monokai)| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuanda2309&theme=nord_bright)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuanda2309&theme=nord_dark)  |![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuanda2309&theme=radical)|
 |solarized|solarized_dark|tokyonight|vue|zenburn|
-|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=solarized)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=solarized_dark)| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=tokyonight)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=vue)  |![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=zenburn)|
+|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuanda2309&theme=solarized)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuanda2309&theme=solarized_dark)| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuanda2309&theme=tokyonight)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuanda2309&theme=vue)  |![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuanda2309&theme=zenburn)|
 |transparent|
-|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=transparent)|
+|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tuanda2309&theme=transparent)|
 
 ## 🏆 GitHub Profile Summary
 
