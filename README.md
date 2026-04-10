@@ -22,26 +22,8 @@
         <br>Python
     </td>
     <td align='center' width="160">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" alt="c++" />
-        <br>C++
-    </td>
-    <td align='center' width="160">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" alt="firebase" />
-        <br>Firebase
-    </td>
-    <td align='center' width="160">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" alt="pandas" />
-        <br>Pandas
-    </td>
-    <td align='center' width="160">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50" alt="numpy" />
-        <br>NumPy
-    </td>
-  </tr>
-  <tr>
-    <td align='center' width="160">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="50" alt="matplotlib" />
-        <br>Matplotlib
+        <img src="https://raw.githubusercontent.com/tuanda2309/image/main/icon%20sql.png" width="50" alt="sqlserver" />
+        <br>SQL Server
     </td>
     <td align='center' width="160">
         <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="50" alt="powerbi" />
@@ -51,9 +33,27 @@
         <img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/png/256/excel.png" width="50" alt="excel" />
         <br>Excel
     </td>
-    <td align='center' width="160" style="vertical-align: bottom;">
-        <img src="https://raw.githubusercontent.com/tuanda2309/image/main/sql.png" width="79" style="padding-top: 15px;" alt="sqlserver" />
-        <br>SQL Server
+    <td align='center' width="160">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" alt="pandas" />
+        <br>Pandas
+    </td>
+  </tr>
+  <tr>
+    <td align='center' width="160">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" alt="c++" />
+        <br>C++
+    </td>
+    <td align='center' width="160">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" alt="firebase" />
+        <br>Firebase
+    </td>
+    <td align='center' width="160">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50" alt="numpy" />
+        <br>NumPy
+    </td>
+    <td align='center' width="160">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="50" alt="matplotlib" />
+        <br>Matplotlib
     </td>
     <td align='center' width="160">
         <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="50" alt="jupyter" />
