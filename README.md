@@ -51,8 +51,8 @@
         <img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/png/256/excel.png" width="50" alt="excel" />
         <br>Excel
     </td>
-    <td align='center' width="160">
-        <img src="https://raw.githubusercontent.com/tuanda2309/image/main/icon%20sql.png" width="79" alt="sqlserver" />
+    <td align='center' width="160" style="vertical-align: bottom;">
+        <img src="https://raw.githubusercontent.com/tuanda2309/image/main/sql.png" width="79" style="padding-top: 15px;" alt="sqlserver" />
         <br>SQL Server
     </td>
     <td align='center' width="160">
