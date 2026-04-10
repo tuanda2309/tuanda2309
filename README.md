@@ -68,11 +68,6 @@
     <td align='center' width="160">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" alt="vscode" />
         <br>VS Code
-    </td>
-    <td align='center' width="160">
-        <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="50" alt="github" />
-        <br>GitHub
-    </td>
     <td align='center' width="160">
         <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="50" alt="jupyter" />
         <br>Jupyter
