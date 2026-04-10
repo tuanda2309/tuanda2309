@@ -22,7 +22,7 @@
         <br>Python
     </td>
     <td align='center' width="160">
-        <img src="https://raw.githubusercontent.com/tuanda2309/image/main/icon%20sql.png" width="70" alt="sqlserver" />
+        <img src="https://raw.githubusercontent.com/tuanda2309/image/main/icon%20sql.png" width="50" alt="sqlserver" />
         <br>SQL Server
     </td>
     <td align='center' width="160">
