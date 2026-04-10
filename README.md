@@ -10,7 +10,7 @@
 </a>
 
 <p align="center">
-  <img width="150" src="https://github.com/user-attachments/assets/ab229727-0973-4946-8173-c914f3479ccc" alt="MU Logo Animation" />
+  <img width="150" src="https://github.com/user-attachments/assets/64521c9c-f898-483a-9f3d-ce317bf94a88" alt="MU Logo Animation" />
 </p>
 
 ## 🛠 Languages and Tools
