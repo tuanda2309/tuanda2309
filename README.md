@@ -52,7 +52,7 @@
         <br>Excel
     </td>
     <td align='center' width="160">
-        <img src="https://www.vectorlogo.zone/logos/microsoft_sqlserver/microsoft_sqlserver-icon.svg" width="50" alt="sqlserver" />
+        <img src="https://raw.githubusercontent.com/tuanda2309/image/main/icon%20sql.png" width="50" alt="sqlserver" />
         <br>SQL Server
     </td>
     <td align='center' width="160">
