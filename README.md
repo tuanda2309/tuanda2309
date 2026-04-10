@@ -73,6 +73,14 @@
         <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="50" alt="github" />
         <br>GitHub
     </td>
+    <td align='center' width="160">
+        <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="50" alt="jupyter" />
+        <br>Jupyter
+    </td>
+    <td align='center' width="160">
+        <img src="https://www.vectorlogo.zone/logos/microsoft_sqlserver/microsoft_sqlserver-icon.svg" width="50" alt="sqlserver" />
+        <br>SQL Server
+    </td>
   </tr>
 </table>
 
