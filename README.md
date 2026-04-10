@@ -26,10 +26,6 @@
         <br>C++
     </td>
     <td align='center' width="160">
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="50" alt="sql" />
-        <br>SQL
-    </td>
-    <td align='center' width="160">
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" alt="firebase" />
         <br>Firebase
     </td>
@@ -37,12 +33,12 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" alt="pandas" />
         <br>Pandas
     </td>
-  </tr>
-  <tr>
     <td align='center' width="160">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50" alt="numpy" />
         <br>NumPy
     </td>
+  </tr>
+  <tr>
     <td align='center' width="160">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="50" alt="matplotlib" />
         <br>Matplotlib
@@ -59,12 +55,12 @@
         <img src="https://www.vectorlogo.zone/logos/microsoft_sqlserver/microsoft_sqlserver-icon.svg" width="50" alt="sqlserver" />
         <br>SQL Server
     </td>
-  </tr>
-  <tr>
     <td align='center' width="160">
         <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="50" alt="jupyter" />
         <br>Jupyter
     </td>
+  </tr>
+  <tr>
     <td align='center' width="160">
         <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="50" alt="azure" />
         <br>Azure
@@ -77,6 +73,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" alt="vscode" />
         <br>VS Code
     </td>
+    <td width="160"></td>
     <td width="160"></td>
   </tr>
 </table>
