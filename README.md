@@ -73,8 +73,14 @@
         <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="50" alt="azure" />
         <br>Azure
     </td>
-    <td width="160"></td>
-    <td width="160"></td>
+    <td align='center' width="160">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" alt="vscode" />
+        <br>VS Code
+    </td>
+    <td align='center' width="160">
+        <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="50" alt="github" />
+        <br>GitHub
+    </td>
   </tr>
 </table>
 
