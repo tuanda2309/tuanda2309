@@ -56,26 +56,28 @@
         <br>Excel
     </td>
     <td align='center' width="160">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" alt="git" />
-        <br>Git
+        <img src="https://www.vectorlogo.zone/logos/microsoft_sqlserver/microsoft_sqlserver-icon.svg" width="50" alt="sqlserver" />
+        <br>SQL Server
     </td>
   </tr>
   <tr>
-    <td align='center' width="160">
-        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="50" alt="azure" />
-        <br>Azure
-    </td>
-    <td align='center' width="160">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" alt="vscode" />
-        <br>VS Code
     <td align='center' width="160">
         <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="50" alt="jupyter" />
         <br>Jupyter
     </td>
     <td align='center' width="160">
-        <img src="https://www.vectorlogo.zone/logos/microsoft_sqlserver/microsoft_sqlserver-icon.svg" width="50" alt="sqlserver" />
-        <br>SQL Server
+        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="50" alt="azure" />
+        <br>Azure
     </td>
+    <td align='center' width="160">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" alt="git" />
+        <br>Git
+    </td>
+    <td align='center' width="160">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" alt="vscode" />
+        <br>VS Code
+    </td>
+    <td width="160"></td>
   </tr>
 </table>
 
