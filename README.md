@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Hi, I'm Tuan👋</b><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=Bachelor;Data+Analyst;Information+Technology" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=Bachelor;Data+Analyst;Information+Technology;I+Develop+Games+As+A+Hobby" alt="Typing Animation"/>
 </p>
 
 <a href="#" target="_blank">
