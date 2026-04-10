@@ -60,6 +60,22 @@
         <br>Git
     </td>
   </tr>
+  <tr>
+    <td align='center' width="160">
+        <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="50" alt="vercel" />
+        <br>Vercel
+    </td>
+    <td align='center' width="160">
+        <img src="https://www.vectorlogo.zone/logos/render/render-icon.svg" width="50" alt="render" />
+        <br>Render
+    </td>
+    <td align='center' width="160">
+        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="50" alt="azure" />
+        <br>Azure
+    </td>
+    <td width="160"></td>
+    <td width="160"></td>
+  </tr>
 </table>
 
 ## 📫 How to reach me
