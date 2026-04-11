@@ -11,6 +11,7 @@
 
 <p align="center">
   <img width="150" src="https://github.com/user-attachments/assets/bb26f26c-236b-4081-a492-ddb737acb18e" alt="MU Logo Animation" />
+  <img width="150" src="https://raw.githubusercontent.com/tuanda2309/image/main/king.gif" alt="King GIF" />
 </p>
 
 ## 🛠 Languages and Tools
