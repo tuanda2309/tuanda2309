@@ -10,7 +10,7 @@
 </a>
 
 <p align="center">
-  <img width="150" src="https://github.com/user-attachments/assets/bb26f26c-236b-4081-a492-ddb737acb18e" alt="MU Logo Animation" />
+  <img width="150" src="https://raw.githubusercontent.com/tuanda2309/image/main/Premier%20League%20Football%20Sticker%20by%20Curtains%20Cool.gif" alt="MU Logo Animation" />
   <img width="150" src="https://raw.githubusercontent.com/tuanda2309/image/main/king.gif" alt="King GIF" />
 </p>
 
