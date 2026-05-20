@@ -121,17 +121,17 @@
 ![Top Langs](https://github-readme-stats-seven-iota-90.vercel.app/api/top-langs/?username=tuanda2309&layout=compact&theme=merko&v=1)
 
 ## 🚀 Projects 
+<a href="https://github.com/tuanda2309/Vietnam_Stock_Data_Analysis_Terminal_VSDAT"> 
+  <img align="center" src="https://github-readme-stats-seven-iota-90.vercel.app/api/pin/?username=tuanda2309&repo=Vietnam_Stock_Data_Analysis_Terminal_VSDAT&theme=gruvbox" /> 
+</a>
+
 <a href="https://github.com/tuanda2309/Cat-Adventure-World"> 
   <img align="center" src="https://github-readme-stats-seven-iota-90.vercel.app/api/pin/?username=tuanda2309&repo=Cat-Adventure-World&theme=radical" /> 
 </a> 
 
 <a href="https://github.com/tuanda2309/LingBook"> 
   <img align="center" src="https://github-readme-stats-seven-iota-90.vercel.app/api/pin/?username=tuanda2309&repo=LingBook&theme=merko" /> 
-</a> 
-
-<a href="https://github.com/tuanda2309/Flappy-Bird-Game-2D-Unity"> 
-  <img align="center" src="https://github-readme-stats-seven-iota-90.vercel.app/api/pin/?username=tuanda2309&repo=Flappy-Bird-Game-2D-Unity&theme=tokyonight" /> 
-</a> 
+</a>  
 
 <a href="https://github.com/tuanda2309/Cheat-SEB"> 
   <img align="center" src="https://github-readme-stats-seven-iota-90.vercel.app/api/pin/?username=tuanda2309&repo=Cheat-SEB&theme=dracula" /> 
